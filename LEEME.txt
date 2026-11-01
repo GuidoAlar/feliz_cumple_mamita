@@ -1,0 +1,25 @@
+PÁGINA DE CUMPLEAÑOS PARA ISABEL
+
+PARA VERLA
+Descomprime el ZIP y abre index.html en tu navegador.
+Conserva assets junto a index.html. Pulsa Escuchar para iniciar la canción.
+La cartita se abre desde cualquiera de los dos botones y se cierra con × o Esc.
+
+ARCHIVOS
+index.html                     Página con la carta de Guido y Amira.
+assets/flores.png               Ramo del diseño original.
+assets/mama-y-papa.png          Foto original de mamá y papá.
+assets/mama-orquidea.jpg        Mamá con su orquídea.
+assets/mama-guido-amira.jpg     Foto familiar de la graduación.
+assets/musica.mp3               Canción original.
+.nojekyll                      Archivo auxiliar para GitHub Pages.
+
+PARA PERSONALIZAR LA CARTA
+Abre index.html en un editor de texto y busca const PERSONALIZAR.
+Cada elemento de carta corresponde a un párrafo.
+
+PARA PUBLICARLA EN GITHUB PAGES
+Sube el contenido de esta carpeta a la raíz de tu repositorio.
+En Settings > Pages, elige Deploy from a branch, la rama main y / (root).
+Guarda y espera a que GitHub muestre el enlace público.
+Sube la carpeta assets con todos sus archivos; conserva los nombres.
